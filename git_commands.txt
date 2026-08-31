@@ -3,3 +3,5 @@ git add .
 git --cached
 git commit -m "msg"
 git resotre
+git remote set-url origin
+git push origin master
